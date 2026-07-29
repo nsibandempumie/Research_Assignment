@@ -1,4 +1,4 @@
-# BrightLearn Data Analytics — Research Assignment 1
+# BrightLearn Data Analytics — Research Assignment 
 ### Foundations of Data Analytics
 
 ## About This Assignment
